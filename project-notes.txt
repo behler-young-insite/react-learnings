@@ -1,0 +1,11 @@
+(uninstall old global w/ npm uninstall -g create-react-app)
+npx create-react-app react-complete-guide
+cd react-complete-guide
+npm start
+...
+
+Max gave a slimmed down version/vanilla basis for the tutoral, extracted and copied it into react-complete-guide dir
+put the proj dropped before in react-complete-guide-autoGen
+cd into react-complete-guide
+npm install - to install all the dependencies specified in package.json
+
